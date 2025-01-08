@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nome_evento": "Evento 1", "data_evento": "2025-01-10", "id_administrador": 1 },
+  { "id": 2, "nome_evento": "Evento 2", "data_evento": "2025-02-15", "id_administrador": 1 },
+  { "id": 3, "nome_evento": "Evento 3", "data_evento": "2025-03-05", "id_administrador": 2 }
+]

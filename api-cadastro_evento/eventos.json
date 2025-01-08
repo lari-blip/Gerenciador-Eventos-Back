@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nome_evento": "Evento 1",
+    "data_evento": "2025-01-10",
+    "localizacao": "São Paulo, São Paulo",
+    "imagem": "image1.jpg",
+    "adminId": 1
+  },
+  {
+    "id": 2,
+    "nome_evento": "Evento 2",
+    "data_evento": "2025-02-15",
+    "localizacao": "Minas Gerais, Belo Horizonte",
+    "imagem": "image2.jpg",
+    "adminId": 1
+  },
+  {
+    "id": 3,
+    "nome_evento": "Evento 3",
+    "data_evento": "2025-03-05",
+    "localizacao": "Rio de Janeiro, Niterói",
+    "imagem": "image3.jpg",
+    "adminId": 2
+  },
+  {
+    "id": 4,
+    "nome_evento": "Evento Teste",
+    "data_evento": "2025-04-20",
+    "localizacao": "São Paulo, São Paulo",
+    "imagem": "https://th.bing.com/th/id/R.1e03c605ec3d42c7f66a09fc70bf5ff3?rik=EPBHFAoqcaGwbg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-pUZ5zdRX1wo%2fUWub7fjDCWI%2fAAAAAAAAAXQ%2frYyCVaEuUxw%2fs1600%2fImagens-da-natureza-lindas.jpg&ehk=zc0wewl8JzG6h1AAca1PnbjoNojqumC8mGED4ZY1X7c%3d&risl=&pid=ImgRaw&r=0",
+    "adminId": 1
+  }
+]
