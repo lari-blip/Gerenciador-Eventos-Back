@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "João da Silva",
+    "email": "joao@exemplo.com",
+    "password": "$2a$10$hGzEcY9S/WuYXHZOIBExr.MTpn4FXy9JYiADM30Hc6ORAWbU5o.E6"
+  },
+  {
+    "id": 2,
+    "nome": "Gabriel Guerra",
+    "email": "gabriel@exemplo.com",
+    "password": "$2a$10$cChNM2pI/OCqXsvuIloUxeoE0nCM1zS7ksTlSo/XmT8MKoV1TxRqq"
+  },
+  {
+    "id": 3,
+    "nome": "Monica Teodoro",
+    "email": "monica@exemplo.com",
+    "password": "$2a$10$F.wDxL7kmSJm0rYTSzliZOy3mfhIJDeNITSs8OhxrVIydBjHm3EFu"
+  },
+  {
+    "id": 4,
+    "nome": "Larissa Capacia",
+    "email": "larissa@admin.com",
+    "password": "$2a$10$A.lameUNHJ54G0dhfv1AueoLdrIqNpvmS4uNYxfMvbXetwdpAm9kG"
+  },
+  {
+    "id": 5,
+    "nome": "Administrador",
+    "email": "lari@gmail.com",
+    "password": "$2a$10$sZIVC7WDSVmRSdiWHLmsFOeheh/ptWS2TYzxEEwZ.y9TOeZZt7Gy6"
+  },
+  {
+    "id": 6,
+    "nome": "Administrador",
+    "email": "admin1@gmail.com",
+    "password": "$2a$10$bYe5II6wKKEvdVNc95Hq2eCyUeIhZ9GpSqv.1spbbnsOOcEfkvGeC"
+  }
+]
